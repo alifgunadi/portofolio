@@ -1,0 +1,27 @@
+.para-style {
+    height: 250px;
+    font-size: 20px;
+    font-style:italic;
+}
+
+.nama {
+    font-size: 40px;
+}
+
+img {
+    display: absolute;
+    width: 10px;
+    height: 580px;
+}
+
+.linkedin {
+    background-color: transparent;
+    margin-bottom: 300px;
+    font-size: 15px;
+    width: 150px;
+
+}
+ .linkedin:hover {
+    background-color: rgb(51, 53, 62);
+ }
+
