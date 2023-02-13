@@ -1,17 +1,19 @@
 .para-style {
     height: 250px;
-    font-size: 20px;
+    font-size: 40px;
     font-style:italic;
+    color: black;
 }
 
 .nama {
     font-size: 40px;
+    color: black;
 }
 
 img {
-    display: absolute;
+    display: relative;
     width: 10px;
-    height: 580px;
+    height: 590px;
 }
 
 .linkedin {
@@ -19,6 +21,7 @@ img {
     margin-bottom: 300px;
     font-size: 15px;
     width: 150px;
+    color: black;
 
 }
  .linkedin:hover {
